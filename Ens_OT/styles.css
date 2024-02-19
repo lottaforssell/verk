@@ -1,6 +1,10 @@
 body{
-    background-color: lightgray;
+    background-color: black;
+    color: white;
 }
+h1{font-size: 20px;}
+p{font-size: 12px;
+color: green;}
 
 .red{
     color: red;
@@ -8,3 +12,12 @@ body{
 #red{
     color: aqua;
 }
+div{border-style: dotted;
+border-width: 2px;
+border-color: beige;
+}
+div.test{width: 100px;
+height: 100px;
+background-color: blue;}
+ol{list-style-type: square;}
+ul{list-style: lower-alpha;}
