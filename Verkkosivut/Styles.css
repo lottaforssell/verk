@@ -13,7 +13,6 @@ body{
 }
 
 
-
 footer{
     background-color: #FEC7C2;
     color: black;
@@ -37,6 +36,7 @@ footer{
 
 .tausta {
     background-color: #FEC7C2;
+    padding: 20px;
 }
 
 
