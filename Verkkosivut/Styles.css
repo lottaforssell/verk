@@ -82,3 +82,15 @@ footer{
     font-size: 16px;
     padding: 16px 32px;
   }
+
+  a:link {
+    color: black;
+  }
+  
+  a:visited {
+    color:#aea6a1;
+  }
+  
+  a:hover {
+    color: rgb(243, 197, 220);
+  }
